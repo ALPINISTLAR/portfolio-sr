@@ -144,6 +144,10 @@ h2{
   align-items: center;
 }
 .project-item:not-last-child{
-  margin-bottom: 16px;
+  margin-bottom: 24px;
+}
+
+.project-item:hover{
+  transform: scale(0.8);
 }
 }
